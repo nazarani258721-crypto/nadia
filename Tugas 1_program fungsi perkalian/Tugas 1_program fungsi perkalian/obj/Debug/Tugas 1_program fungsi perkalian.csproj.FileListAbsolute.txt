@@ -1,0 +1,7 @@
+C:\Nadia Nazarani X PPLG 1\Tugas 1_program fungsi perkalian\Tugas 1_program fungsi perkalian\bin\Debug\Tugas 1_program fungsi perkalian.exe.config
+C:\Nadia Nazarani X PPLG 1\Tugas 1_program fungsi perkalian\Tugas 1_program fungsi perkalian\bin\Debug\Tugas 1_program fungsi perkalian.exe
+C:\Nadia Nazarani X PPLG 1\Tugas 1_program fungsi perkalian\Tugas 1_program fungsi perkalian\bin\Debug\Tugas 1_program fungsi perkalian.pdb
+C:\Nadia Nazarani X PPLG 1\Tugas 1_program fungsi perkalian\Tugas 1_program fungsi perkalian\obj\Debug\Tugas 1_program fungsi perkalian.csproj.AssemblyReference.cache
+C:\Nadia Nazarani X PPLG 1\Tugas 1_program fungsi perkalian\Tugas 1_program fungsi perkalian\obj\Debug\Tugas 1_program fungsi perkalian.csproj.CoreCompileInputs.cache
+C:\Nadia Nazarani X PPLG 1\Tugas 1_program fungsi perkalian\Tugas 1_program fungsi perkalian\obj\Debug\Tugas 1_program fungsi perkalian.exe
+C:\Nadia Nazarani X PPLG 1\Tugas 1_program fungsi perkalian\Tugas 1_program fungsi perkalian\obj\Debug\Tugas 1_program fungsi perkalian.pdb
