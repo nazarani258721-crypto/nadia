@@ -1,0 +1,8 @@
+C:\Nadia Nazarani X PPLG 1\Praktik 1.5\Praktik 1.5\obj\Debug\Praktik 1.5.csproj.AssemblyReference.cache
+C:\Nadia Nazarani X PPLG 1\Praktik 1.5\Praktik 1.5\obj\Debug\Praktik 1.5.csproj.CoreCompileInputs.cache
+C:\Nadia Nazarani X PPLG 1\Praktik 1.5\Praktik 1.5\bin\Debug\Praktik 1.5.exe.config
+C:\Nadia Nazarani X PPLG 1\Praktik 1.5\Praktik 1.5\bin\Debug\Praktik 1.5.exe
+C:\Nadia Nazarani X PPLG 1\Praktik 1.5\Praktik 1.5\bin\Debug\Praktik 1.5.pdb
+C:\Nadia Nazarani X PPLG 1\Praktik 1.5\Praktik 1.5\obj\Debug\Praktik 1.5.exe
+C:\Nadia Nazarani X PPLG 1\Praktik 1.5\Praktik 1.5\obj\Debug\Praktik 1.5.pdb
+C:\Nadia Nazarani X PPLG 1\Praktik 1.5\Praktik 1.5\obj\Debug\Praktik 1.5.exe.config

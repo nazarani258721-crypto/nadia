@@ -1,0 +1,7 @@
+C:\Nadia Nazarani X PPLG 1\Praktik 1.2 Nadia Nazarani\Praktik 1.2 Nadia Nazarani\bin\Debug\Praktik 1.2 Nadia Nazarani.exe.config
+C:\Nadia Nazarani X PPLG 1\Praktik 1.2 Nadia Nazarani\Praktik 1.2 Nadia Nazarani\bin\Debug\Praktik 1.2 Nadia Nazarani.exe
+C:\Nadia Nazarani X PPLG 1\Praktik 1.2 Nadia Nazarani\Praktik 1.2 Nadia Nazarani\bin\Debug\Praktik 1.2 Nadia Nazarani.pdb
+C:\Nadia Nazarani X PPLG 1\Praktik 1.2 Nadia Nazarani\Praktik 1.2 Nadia Nazarani\obj\Debug\Praktik 1.2 Nadia Nazarani.csproj.AssemblyReference.cache
+C:\Nadia Nazarani X PPLG 1\Praktik 1.2 Nadia Nazarani\Praktik 1.2 Nadia Nazarani\obj\Debug\Praktik 1.2 Nadia Nazarani.csproj.CoreCompileInputs.cache
+C:\Nadia Nazarani X PPLG 1\Praktik 1.2 Nadia Nazarani\Praktik 1.2 Nadia Nazarani\obj\Debug\Praktik 1.2 Nadia Nazarani.exe
+C:\Nadia Nazarani X PPLG 1\Praktik 1.2 Nadia Nazarani\Praktik 1.2 Nadia Nazarani\obj\Debug\Praktik 1.2 Nadia Nazarani.pdb

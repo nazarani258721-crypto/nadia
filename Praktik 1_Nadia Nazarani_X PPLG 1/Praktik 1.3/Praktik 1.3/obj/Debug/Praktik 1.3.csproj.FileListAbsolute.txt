@@ -1,0 +1,8 @@
+C:\Nadia Nazarani X PPLG 1\Praktik 1.3\Praktik 1.3\bin\Debug\Praktik 1.3.exe.config
+C:\Nadia Nazarani X PPLG 1\Praktik 1.3\Praktik 1.3\bin\Debug\Praktik 1.3.exe
+C:\Nadia Nazarani X PPLG 1\Praktik 1.3\Praktik 1.3\bin\Debug\Praktik 1.3.pdb
+C:\Nadia Nazarani X PPLG 1\Praktik 1.3\Praktik 1.3\obj\Debug\Praktik 1.3.csproj.AssemblyReference.cache
+C:\Nadia Nazarani X PPLG 1\Praktik 1.3\Praktik 1.3\obj\Debug\Praktik 1.3.csproj.CoreCompileInputs.cache
+C:\Nadia Nazarani X PPLG 1\Praktik 1.3\Praktik 1.3\obj\Debug\Praktik 1.3.exe
+C:\Nadia Nazarani X PPLG 1\Praktik 1.3\Praktik 1.3\obj\Debug\Praktik 1.3.pdb
+C:\Nadia Nazarani X PPLG 1\Praktik 1.3\Praktik 1.3\obj\Debug\Praktik 1.3.exe.config
