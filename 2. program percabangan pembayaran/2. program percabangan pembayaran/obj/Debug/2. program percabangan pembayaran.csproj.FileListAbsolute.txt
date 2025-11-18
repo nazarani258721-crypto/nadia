@@ -1,0 +1,7 @@
+C:\Nadia Nazarani X PPLG 1\2. program percabangan pembayaran\2. program percabangan pembayaran\bin\Debug\_2.program_percabangan_pembayaran.exe.config
+C:\Nadia Nazarani X PPLG 1\2. program percabangan pembayaran\2. program percabangan pembayaran\bin\Debug\_2.program_percabangan_pembayaran.exe
+C:\Nadia Nazarani X PPLG 1\2. program percabangan pembayaran\2. program percabangan pembayaran\bin\Debug\_2.program_percabangan_pembayaran.pdb
+C:\Nadia Nazarani X PPLG 1\2. program percabangan pembayaran\2. program percabangan pembayaran\obj\Debug\2. program percabangan pembayaran.csproj.AssemblyReference.cache
+C:\Nadia Nazarani X PPLG 1\2. program percabangan pembayaran\2. program percabangan pembayaran\obj\Debug\2. program percabangan pembayaran.csproj.CoreCompileInputs.cache
+C:\Nadia Nazarani X PPLG 1\2. program percabangan pembayaran\2. program percabangan pembayaran\obj\Debug\_2.program_percabangan_pembayaran.exe
+C:\Nadia Nazarani X PPLG 1\2. program percabangan pembayaran\2. program percabangan pembayaran\obj\Debug\_2.program_percabangan_pembayaran.pdb

@@ -1,0 +1,8 @@
+C:\Nadia Nazarani X PPLG 1\Program menghitung luas bangunan\Program menghitung luas bangunan\obj\Debug\Program menghitung luas bangunan.csproj.AssemblyReference.cache
+C:\Nadia Nazarani X PPLG 1\Program menghitung luas bangunan\Program menghitung luas bangunan\obj\Debug\Program menghitung luas bangunan.csproj.CoreCompileInputs.cache
+C:\Nadia Nazarani X PPLG 1\Program menghitung luas bangunan\Program menghitung luas bangunan\bin\Debug\Program menghitung luas bangunan.exe.config
+C:\Nadia Nazarani X PPLG 1\Program menghitung luas bangunan\Program menghitung luas bangunan\bin\Debug\Program menghitung luas bangunan.exe
+C:\Nadia Nazarani X PPLG 1\Program menghitung luas bangunan\Program menghitung luas bangunan\bin\Debug\Program menghitung luas bangunan.pdb
+C:\Nadia Nazarani X PPLG 1\Program menghitung luas bangunan\Program menghitung luas bangunan\obj\Debug\Program menghitung luas bangunan.exe
+C:\Nadia Nazarani X PPLG 1\Program menghitung luas bangunan\Program menghitung luas bangunan\obj\Debug\Program menghitung luas bangunan.pdb
+C:\Nadia Nazarani X PPLG 1\Program menghitung luas bangunan\Program menghitung luas bangunan\obj\Debug\Program menghitung luas bangunan.exe.config

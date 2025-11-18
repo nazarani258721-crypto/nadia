@@ -1,0 +1,8 @@
+C:\Nadia Nazarani X PPLG 1\celcius ke fahrenheit dan reamur\celcius ke fahrenheit dan reamur\obj\Debug\celcius ke fahrenheit dan reamur.csproj.AssemblyReference.cache
+C:\Nadia Nazarani X PPLG 1\celcius ke fahrenheit dan reamur\celcius ke fahrenheit dan reamur\obj\Debug\celcius ke fahrenheit dan reamur.csproj.CoreCompileInputs.cache
+C:\Nadia Nazarani X PPLG 1\celcius ke fahrenheit dan reamur\celcius ke fahrenheit dan reamur\bin\Debug\celcius ke fahrenheit dan reamur.exe.config
+C:\Nadia Nazarani X PPLG 1\celcius ke fahrenheit dan reamur\celcius ke fahrenheit dan reamur\bin\Debug\celcius ke fahrenheit dan reamur.exe
+C:\Nadia Nazarani X PPLG 1\celcius ke fahrenheit dan reamur\celcius ke fahrenheit dan reamur\bin\Debug\celcius ke fahrenheit dan reamur.pdb
+C:\Nadia Nazarani X PPLG 1\celcius ke fahrenheit dan reamur\celcius ke fahrenheit dan reamur\obj\Debug\celcius ke fahrenheit dan reamur.exe
+C:\Nadia Nazarani X PPLG 1\celcius ke fahrenheit dan reamur\celcius ke fahrenheit dan reamur\obj\Debug\celcius ke fahrenheit dan reamur.pdb
+C:\Nadia Nazarani X PPLG 1\celcius ke fahrenheit dan reamur\celcius ke fahrenheit dan reamur\obj\Debug\celcius ke fahrenheit dan reamur.exe.config
